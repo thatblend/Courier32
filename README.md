@@ -1,5 +1,7 @@
 # Courier32
 
+![Demo](demo/demo_example.gif)
+
 This is a largely vibecoded, open world 3D game with a courier game loop for the **LILYGO ESP32-S3**. It features particle effects, night/day cycle, pedestrians and NPC traffic as well as basic crash physics. You can explore the city with a magnifying glass on the glorious 1.9 inch screen, or you can drive into the glowing beacon and start delivering packages before the timer runs out. 
 
 The project is a demonstration of what is technically possible on the ESP32-S3. I sometimes see people downplaying the capability of these chips, using them at most as a glorified thermostat controls, but they are still full blown miniature computers and are fully capable of simplistic 3D graphics, even with a lack of a dedicated graphical chip.
